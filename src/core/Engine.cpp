@@ -1,0 +1,3 @@
+vector<string> tokens;
+map<int, string> docs;
+//add doc: Doc struct : metadata...
